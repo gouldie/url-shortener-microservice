@@ -2,7 +2,7 @@ URL shortener microservice
 
 **Example creation usage:**
 
-https://little-url.herokuapp.com/https://www.google.com
+https://url-shorten-mg.glitch.me/https://www.google.com
 
 **Example creation output**
 
